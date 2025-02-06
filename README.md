@@ -1,6 +1,27 @@
 ## Takumi Ishihara
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Takumi Ishihara is a master student of Keio University Graduate School of Media and Governance. His research interests include mobile network and edge computing.
+
+## Education
+
+#### Makers Academy (start_date to end_date)
+- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### Your University / College (start_date to end_date)
+
+- Subject, any specialisms
+- Grade
+- Other cool stuff
+
+#### Any other qualifications
+
+That in some arguable way make you a better software developer or well-rounded person
 
 ## Projects
 
@@ -42,27 +63,6 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Another skill
 
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
